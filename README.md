@@ -1,14 +1,18 @@
+<!-- README de github.com/GabiZips -->
+
 <div align="center">
-  <img src="./assets/banner-morte.jpg" alt="Morte, de Sandman" width="100%" />
+  <img src="./assets/death-banner.png" alt="Morte, de Sandman" width="100%" />
 
   <br />
   <br />
 
-  <h1>☥ Gabi ☥</h1>
+  <img src="./assets/ankh.svg" alt="Ankh prateado" width="72" />
+
+  <h1>Gabi</h1>
 
   <p><i>entre dados, memória e máquinas</i></p>
 
-  <sub>☾　⋆　｡　°　✩　𓋹　✩　°　｡　⋆　☽</sub>
+  <img src="./assets/ankh-stars.gif" alt="Ankh cercado por estrelas que piscam" width="100%" />
 </div>
 
 <br />

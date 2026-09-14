@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 240" role="img" aria-labelledby="title desc">
+  <title id="title">Ankh egípcio</title>
+  <desc id="desc">Ankh com laço em forma de gota, braços horizontais e haste vertical.</desc>
+
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#73757c" />
+      <stop offset="0.42" stop-color="#f2f2f3" />
+      <stop offset="0.7" stop-color="#b5b6bc" />
+      <stop offset="1" stop-color="#676970" />
+    </linearGradient>
+  </defs>
+
+  <path
+    fill="url(#silver)"
+    fill-rule="evenodd"
+    stroke="#27282d"
+    stroke-width="2"
+    stroke-linejoin="round"
+    d="
+      M90 7
+      C55 7 38 35 45 66
+      C49 84 61 99 72 111
+      H18
+      V140
+      H69
+      V232
+      H111
+      V140
+      H162
+      V111
+      H108
+      C119 99 131 84 135 66
+      C142 35 125 7 90 7
+      Z
+
+      M90 34
+      C107 34 114 48 110 63
+      C107 76 98 88 90 98
+      C82 88 73 76 70 63
+      C66 48 73 34 90 34
+      Z
+    "
+  />
+
+  <path d="M25 57L28 66L37 69L28 72L25 81L22 72L13 69L22 66Z" fill="#d8d8dc" opacity=".8" />
+  <path d="M153 42L155 48L161 50L155 52L153 58L151 52L145 50L151 48Z" fill="#d8d8dc" opacity=".55" />
+</svg>

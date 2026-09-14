@@ -12,7 +12,7 @@
 
   <p><i>entre dados, memória e máquinas</i></p>
 
-  <img src="./assets/ankh-stars.gif" alt="Ankh cercado por estrelas que piscam" width="100%" />
+  <img src="./assets/ankh-stars.gif" alt="Ankh cercado por estrelas que piscam" width="70%" />
 </div>
 
 <br />

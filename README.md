@@ -1,72 +1,34 @@
-<!-- README de github.com/GabiZips -->
-
 <div align="center">
-  <img src="./assets/death-banner.png" alt="Morte, de Sandman" width="100%" />
+  <img src="./assets/banner-gravura.jpg" alt="Morte, de Sandman" width="100%" />
 
-  <br />
-  <br />
-
-  <img src="./assets/ankh.svg" alt="Ankh prateado" width="72" />
-
-  <h1>Gabi</h1>
-
-  <p><i>entre dados, memória e máquinas</i></p>
-
-  <img src="./assets/ankh-stars.gif" alt="Ankh cercado por estrelas que piscam" width="70%" />
+  <h1>Gabi Zanini</h1>
+  <p><em>entre perguntas e possibilidades</em></p>
 </div>
 
-<br />
+## Sobre mim
 
-> *“Você recebe o que todo mundo recebe — uma vida inteira.”*
->
-> <sub>— Morte, **Sandman**</sub>
+Sou estudante de Ciência da Computação na PUCRS e trabalho com engenharia de dados e DataOps, atuando na análise, construção e operação de fluxos de dados.
 
-<br />
+Gosto de estruturar projetos, investigar problemas e entender como sistemas e processos se conectam, com foco em automatizar pipelines e torná-los mais eficientes e confiáveis.
 
-### ☾ só de passagem
+## Tecnologias
 
-Sou **Gabi**.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="" width="28" height="28" /> Python &nbsp;&nbsp;
+  <img src="./assets/sql.svg" alt="" width="28" height="28" /> SQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachespark/apachespark-original.svg" alt="" width="28" height="28" /> PySpark &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" alt="" width="28" height="28" /> Pandas &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/haskell/haskell-original.svg" alt="" width="28" height="28" /> Haskell &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" alt="" width="28" height="28" /> C &nbsp;&nbsp;
+  <img src="./assets/assembly.svg" alt="" width="28" height="28" /> Assembly &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" alt="" width="28" height="28" /> Java &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" alt="" width="28" height="28" /> Linux &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="" width="28" height="28" /> Git &nbsp;&nbsp;
+</p>
 
-Tenho curiosidade pelo que existe por trás das coisas — dados, sistemas, máquinas e aquelas ideias que começam com um simples **“e se...”**
-
-O que fica por aqui são alguns rastros: tentativas, descobertas e coisas que ganharam vida pelo caminho.
-
-<br />
-
-### ☥ linguagens & conhecimentos
-
-<div align="center">
-
-`⌁ Python`　 `▤ SQL`　 `✦ PySpark`　 `▦ Pandas`
-
-`♨ Java`　 `⌬ C`　 `⚙ Assembly`
-
-`◉ Linux`　 `⑂ Git`
-
-</div>
-
-<br />
-
-### ☾ projetos começam com “e se...”
-
-> **E se os dados contassem outra história?**  
-> <sub>Python · SQL · PySpark · Pandas</sub>
-
-> **E se eu chegasse mais perto da máquina?**  
-> <sub>C · Assembly · Linux</sub>
-
-> **E se uma ideia estranha realmente funcionasse?**  
-> <sub>Java · Python · curiosidade</sub>
-
-Algumas dessas perguntas viram código. Outras ficam vagando por aqui até encontrarem a forma certa.
-
-<br />
+---
 
 <div align="center">
-  <sub>✦ algumas coisas terminam · outras viram commits ✦</sub>
-  <br />
-  <br />
-  <sub>☾　⋆　｡　°　✩　𓋹　✩　°　｡　⋆　☽</sub>
+  <img src="https://raw.githubusercontent.com/GabiZips/GabiZips/main/assets/ankh.svg" alt="Ankh prateado" width="32" />
+  <p><em>“Sem os momentos ruins, como você reconheceria os bons?”</em></p>
 </div>
-
-<!-- Se souber a autoria ou a publicação original da capa, acrescente o crédito aqui. -->
